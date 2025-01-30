@@ -1,8 +1,8 @@
 # 🚀 **Full Stack Developer** | Passionate about AI, Entrepreneurship, Innovation & UX/UI  
 
-## Hi there 👋
+## Hi there, I'm Luis 👋
 
-## 🚀 About Me  
+## 🙎🏻‍♂️ About Me  
 🔭 I’m currently working on **Sphere**, an all-in-one smart platform for students & teachers.  
 🌱 I’m currently learning AI Integration, React Native, and backend scaling with microservices.  
 👯 I’m looking to collaborate with developers & educators on AI-powered EdTech solutions.  
