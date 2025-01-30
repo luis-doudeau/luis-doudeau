@@ -1,8 +1,8 @@
 # Luigi ॐ🌍 
+ 
+## 🚀 **Full Stack Developer** | Passionate about AI, Entrepreneurship, Innovation & UX/UI  
 
 ## Hi there 👋
- 
-🚀 **Full Stack Developer** | Passionate about AI, Entrepreneurship, Innovation & UX/UI  
 
 ## 🚀 About Me  
 🔭 I’m currently working on **Sphere**, an all-in-one smart platform for students & teachers.  
