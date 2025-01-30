@@ -1,6 +1,7 @@
-## Hi there 👋
+# Luigi ॐ🌍 
 
-# Luigi ॐ🌍  
+## Hi there 👋
+ 
 🚀 **Full Stack Developer** | Passionate about AI, Entrepreneurship, Innovation & UX/UI  
 
 ## 🚀 About Me  
