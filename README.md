@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 🔭 I’m currently working on **Sphere**, an all-in-one smart platform for students & teachers.  
 🌱 I’m currently learning AI Integration, React Native, and backend scaling with microservices.  
-👯 I’m looking to collaborate with developers & educators on AI-powered EdTech solutions. 
+👯 I’m looking to collaborate with developers & educators on AI-powered EdTech solutions.  
 🤔 I’m looking for help with cloud infrastructure & scaling (Kubernetes, Kube, AWS, CI/CD).  
 💬 Ask me about React, TypeScript, Next.js, UI/UX (Figma, app design), and AI integration.  
 
